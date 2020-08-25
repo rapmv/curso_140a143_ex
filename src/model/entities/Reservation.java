@@ -41,7 +41,7 @@ public class Reservation {
 		return checkOut;
 	}
 
-
+	//função para retorna a quantidade de dias de estadia.
 	public long duration() {
 		
 		//getTime - pega a data em milisegundos
